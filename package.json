@@ -1,7 +1,7 @@
 {
   "name": "ci-cd-demo-app",
   "version": "1.0.0",
-  "description": "This is for CI/CD project",
+  "description": "This is for CI/CD project v1",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
